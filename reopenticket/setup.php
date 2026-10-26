@@ -18,7 +18,7 @@ function plugin_version_reopenticket()
     return [
         'name'           => 'Reopen Ticket',
         'version'        => PLUGIN_REOPENTICKET_VERSION,
-        'author'         => 'PE Labellers IT',
+        'author'         => '',
         'license'        => 'GPLv2+',
         'homepage'       => '',
         'requirements'   => [
